@@ -1,35 +1,54 @@
 {	"data":
-	[	
-		{
-			"id":1,
-			"judul":"Waterfall One",
-			"image":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-		},
-		{
-			"id":2,
-			"judul":"Waterfall Two",
-			"image":"https://images.pexels.com/photos/1598073/pexels-photo-1598073.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-		},
-		{
-			"id":3,
-			"judul":"Waterfall Tilu",
-			"image":"https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-		},
-		{
-			"id":4,
-			"judul":"Waterfall Opat",
-			"image":"https://images.pexels.com/photos/1068795/pexels-photo-1068795.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-		},
-		{
-			"id":5,
-			"judul":"Waterfall Lima",
-			"image":"https://images.pexels.com/photos/509363/pexels-photo-509363.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-		},
-		{
-			"id":6,
-			"judul":"Waterfall Opat",
-			"image":"https://images.pexels.com/photos/878150/pexels-photo-878150.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-		}
+[	
+    {
+      "id":1,
+      "id_wall":"1",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-51D2R1H6_zY/X0hvnWYc3FI/AAAAAAAAARU/ig5D6nYvw7M3KG0Yb9o7STh_rQTRhQm3ACLcBGAsYHQ/s1000/img91.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"2",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-gOfZO9ID3j4/X0hvnIlZ2lI/AAAAAAAAARQ/30fe25tWgVoB_M3locWL3_Ua4Aacu539ACLcBGAsYHQ/s1000/img82.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"3",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-RCDi4BiIZ28/X0hvmWpR2II/AAAAAAAAARI/FqwpmE8oICM5vfJVhCxivVPFP8mZRjLOwCLcBGAsYHQ/s1000/img62.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"4",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-e3JAXyDVP8M/X0hvmFdoD4I/AAAAAAAAARE/eaQqIqkdlcwkPUGuQAnCXOXS3yqHTGsCgCLcBGAsYHQ/s1000/img61.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"5",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-y4ot4-0VP04/X0hvl8Kwd7I/AAAAAAAAARA/MpIuin45vAY5af3-Ow3Dk8xPNnt5qMurgCLcBGAsYHQ/s1000/img60.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"6",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-PevBl7mB5Cc/X0hvkvki00I/AAAAAAAAAQ4/89W2VexeldkOoEasFWCpJRl_am60ze8cACLcBGAsYHQ/s1000/img59.jpg"
+    },
+	    {
+      "id":7,
+      "id_wall":"7",
+      "nama_cat": "Boy Alone",
+      "judul":"Boy Alone",
+      "image":"https://1.bp.blogspot.com/-jdAo97x46ec/X0hvkVfv5jI/AAAAAAAAAQ0/Bfg04YosVmAHuhu5VznAp0tjhOOiS01ZgCLcBGAsYHQ/s1000/img58.jpg"
+    }
 
-	]
+]
 }
